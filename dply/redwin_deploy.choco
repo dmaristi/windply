@@ -27,6 +27,7 @@ choco install heidisql --version=10.2.0.559900
 choco install putty
 choco install OpenVPN
 choco install python3
+choco install nmap
 choco install microsoft-windows-terminal
 
 # GitHub

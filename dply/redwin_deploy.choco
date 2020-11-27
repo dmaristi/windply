@@ -54,6 +54,7 @@ git clone --recursive https://github.com/0xd4d/dnSpy.git C:\tools\dnSpy
 git clone https://github.com/leechristensen/SpoolSample.git C:\tools\SpoolSample
 git clone --recurse-submodules https://github.com/cobbr/Covenant C:\tools\Covenant
 git clone https://github.com/rasta-mouse/ThreatCheck C:\tools\ThreatCheck
+git clone https://github.com/SnaffCon/Snaffler C:\tools\Snaffler
 
 # IE first run
 New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Internet Explorer"

@@ -57,6 +57,7 @@ git clone https://github.com/leechristensen/SpoolSample.git C:\tools\SpoolSample
 git clone --recurse-submodules https://github.com/cobbr/Covenant C:\tools\Covenant
 git clone https://github.com/rasta-mouse/ThreatCheck C:\tools\ThreatCheck
 git clone https://github.com/SnaffCon/Snaffler C:\tools\Snaffler
+git clone https://github.com/BloodHoundAD/AzureHound C:\tools\AzureHound
 
 
 # IE first run

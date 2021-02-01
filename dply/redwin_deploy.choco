@@ -28,7 +28,7 @@ choco install putty
 choco install OpenVPN
 choco install python3
 choco install nmap
-choco install docker-desktop
+# choco install docker-desktop
 choco install greenshot
 choco install microsoft-windows-terminal
 
